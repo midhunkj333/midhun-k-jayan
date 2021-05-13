@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1c2N88qTUpANG4a52zLFI//a8G2Wz06pjJF3O9GKc2toO78bKmbYqoa5bHxXhZtv7d4hqbvYUTftc4vIHiIdeg==",
+  "success": true,
+  "projectFilePath": "E:\\PlayGround\\DotnetCore\\MidhunKjayan\\midhun-k-jayan\\MidhunKjayan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MITHUN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
