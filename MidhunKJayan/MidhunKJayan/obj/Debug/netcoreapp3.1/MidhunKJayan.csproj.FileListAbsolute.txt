@@ -34,3 +34,4 @@ E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\o
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.pdb
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.genruntimeconfig.cache
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.csproj.CopyComplete
+E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.csprojAssemblyReference.cache
