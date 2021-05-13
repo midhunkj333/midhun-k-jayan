@@ -8,7 +8,6 @@ E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\b
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\bin\Debug\netcoreapp3.1\MidhunKJayan.pdb
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\bin\Debug\netcoreapp3.1\MidhunKJayan.Views.dll
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\bin\Debug\netcoreapp3.1\MidhunKJayan.Views.pdb
-E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.csprojAssemblyReference.cache
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.AssemblyInfoInputs.cache
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.AssemblyInfo.cs
 E:\PlayGround\DotnetCore\MidhunKjayan\midhun-k-jayan\MidhunKJayan\MidhunKJayan\obj\Debug\netcoreapp3.1\MidhunKJayan.csproj.CoreCompileInputs.cache
